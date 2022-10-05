@@ -1,0 +1,3 @@
+[submodule "IOExpander/arduino-mcp2515"]
+	path = IOExpander/arduino-mcp2515
+	url = https://github.com/AutoGolfCart/arduino-mcp2515
